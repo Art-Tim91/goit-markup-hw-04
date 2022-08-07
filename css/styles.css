@@ -78,7 +78,6 @@ a {
 
 .title {
   color: var(--title-text-color);
-  margin: inherit;
 }
 
 /* ---------header--------- */
